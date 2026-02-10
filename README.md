@@ -1,7 +1,3 @@
-# Hi!, I'm Hyunbin
-### Cyber Security Student
-
-18-year-old cybersecurity student focused on low-level networking, Linux systems, and infrastructure engineering. I enjoy looking into complex routing behavior, firewalling, and performance optimization, especially where kernel-level networking and real-world traffic meet. I build reproducible labs, automation tools, and practical fixes with a strong emphasis on correctness, clarity, and secure design.
 
 ## GitHub Stats
 
