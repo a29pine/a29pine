@@ -18,7 +18,7 @@ Most academic coursework remains private.
 
 ---
 
-## Languages & Tools
+## Primary Languages & Tools
 
 - C / C++
 - Java / Kotlin
