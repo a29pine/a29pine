@@ -31,6 +31,6 @@ Most academic coursework remains private.
 
 ## Professional Experience
 
-Co-founder of a digital engineering studio delivering development, infrastructure tooling, and security-focused solutions.
+Executive Partner of a digital engineering studio delivering development, infrastructure tooling, and security-focused solutions.
 
 Co-founder of a holiday let real estate company, overseeing technical systems, automation, and operational infrastructure.
